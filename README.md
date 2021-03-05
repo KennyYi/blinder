@@ -10,3 +10,5 @@ Blinder.open().then((value) => setState(() => isBlind = false));
 // Clear secure screen
 Blinder.blind().then((value) => setState(() => isBlind = true));
 ```
+## TODO
+ - [ ] iOS
